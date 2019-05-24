@@ -1,0 +1,11 @@
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\bin\Debug\netcoreapp2.0\SpaceGame.deps.json
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\bin\Debug\netcoreapp2.0\SpaceGame.runtimeconfig.json
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\bin\Debug\netcoreapp2.0\SpaceGame.runtimeconfig.dev.json
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\bin\Debug\netcoreapp2.0\SpaceGame.dll
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\bin\Debug\netcoreapp2.0\SpaceGame.pdb
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\obj\Debug\netcoreapp2.0\SpaceGame.csprojAssemblyReference.cache
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\obj\Debug\netcoreapp2.0\SpaceGame.csproj.CoreCompileInputs.cache
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\obj\Debug\netcoreapp2.0\SpaceGame.AssemblyInfoInputs.cache
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\obj\Debug\netcoreapp2.0\SpaceGame.AssemblyInfo.cs
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\obj\Debug\netcoreapp2.0\SpaceGame.dll
+D:\Deakin University\3rd Trimester\Object Oriented Programming\Game\obj\Debug\netcoreapp2.0\SpaceGame.pdb
